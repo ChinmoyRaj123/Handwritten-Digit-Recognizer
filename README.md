@@ -1,6 +1,6 @@
 ![alt text](https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/01/python-machine-learning-project-handwritten-digit-recognition-1-640x480.jpg)
 
-# Handwritten-Digit-Recognizer
+# Handwritten-Digit-Recognition
   
 ## Table of content
   * [Overview]
@@ -9,11 +9,11 @@
   * [Technologies used]
   
 ## Overview
-Credit is part of your financial power. It helps you to get the things you need now, like a loan for a car or a credit card, based on your promise to pay later. Working to improve your credit helps ensure you'll qualify for loans when you need them.
+The handwritten digit recognition is the ability of computers to recognize human handwritten digits. It is a hard task for the machine because handwritten digits are not perfect and can be made with many different flavors. The handwritten digit recognition is the solution to this problem which uses the image of a digit and recognizes the digit present in the image.
 
-![alt text](https://mygreatlakes.org/mglstatic/educate/images/knowledge-center/interactive-assets/credit/good-credit-man.png)
+![alt text](https://camo.githubusercontent.com/3cb372f63ef7bf9417d49b33a9ff444f8b2ac8f9/68747470733a2f2f6b75616e686f6f6e672e66696c65732e776f726470726573732e636f6d2f323031362f30312f6d6e6973746469676974732e676966)
 
-In this project, i have built a model based on credential data of some customers declaring whether they are eligible for credit or not. This model will predict whether a customer is having a "Good" or "Bad" credit status.
+
 
 ## Installation
 The code is written in Python 3.7 in Jupyter Notebook. If you dont have it you can first download Anaconda platform [here](https://docs.anaconda.com/anaconda/install/), where You will find the Jupyter Notebook within it. Jupyter Notebooks are powerful, versatile, shareable and provide the ability to perform data visualization in the same environment.It also allows data scientists to create and share their documents, from codes to full blown reports. They help data scientists streamline their work and enable more productivity and easy collaboration. Due to these and several other reasons you will see below, Jupyter Notebooks are one of the most popular tools among data scientists.
@@ -26,7 +26,7 @@ After installing Anaconda, you have to install two packages-
 After completing the installation process, run the Jupyter Notebook where you can use the code (`CNN Handwritten.ipynb`).
 
 ## Project Detail
-Here, in this project, the data i have used is in the format of csv file i.e `creditcard.csv` which is located in my 'D:' drive. You can change the path of the loaction of the file as you want. The data consist of personal details of a customer like "NPA Status",	"Age",	"Gender",	"Region",	"MonthlyIncome",	"Rented_OwnHouse",	"Occupation",	"Education", "DebtRatio", "NumberOfDependents", etc. After analysing the data(i.e removing null values, modifying some unrelated variables based on some criteria, etc) i have finally built the model using simple Logistic Regression to predict credit status of any given data of a customer.
+
 
 ## Technologies Used
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
