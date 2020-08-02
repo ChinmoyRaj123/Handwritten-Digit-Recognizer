@@ -1,12 +1,6 @@
-![alt text](https://www.callcentrehelper.com/images/stories/2018/03/chatbot-at-desk-messaging-760.png)
+![alt text](https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/01/python-machine-learning-project-handwritten-digit-recognition-1-640x480.jpg)
 
 # Handwritten-Digit-Recognizer
-
-## Table of content
-  * [Overview]
-  * [Installation]
-  * [Project Details]
-  * [Technologies used]
   
 ## Table of content
   * [Overview]
