@@ -47,6 +47,7 @@ Now for the GUI, we have created a new file(`Digit_recognizer_app`) in which we 
 Then we create the App class which is responsible for building the GUI for our app. We create a canvas where we can draw by capturing the mouse event and with a button, we trigger the predict_digit() function and display the results.
 
 ![image](https://drive.google.com/file/d/1JAGtyXba_ZYQ88bijGETbyZTHqTpFuxe/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=1JAGtyXba_ZYQ88bijGETbyZTHqTpFuxe)
 
 ## Technologies Used
 ![](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
