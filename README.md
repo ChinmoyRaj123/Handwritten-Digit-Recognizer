@@ -29,7 +29,7 @@ After installing Anaconda, you have to install "keras" library to build the mode
    * [Creating GUI to predict digits]
    
 ### Importing the libraries and loading the dataset
-First, we are going to import all the modules that we are going to need for training our model. The Keras library already contains some datasets and MNIST is one of them. So we can easily import the dataset and start working with it. The mnist.load_data() method returns us the training data, its labels and also the testing data and its labels.
+In the main file(`Digit_recognizer_main`), first of all, we are going to import all the modules that we are going to need for training our model. The Keras library already contains some datasets and MNIST is one of them. So we can easily import the dataset and start working with it. The mnist.load_data() method returns us the training data, its labels and also the testing data and its labels.
 
 ### Preprocessing the data
 The image data cannot be fed directly into the model so we need to perform some operations and process the data to make it ready for our neural network. The dimension of the training data is (60000,28,28). The CNN model will require one more dimension so we reshape the matrix to shape (60000,28,28,1).
