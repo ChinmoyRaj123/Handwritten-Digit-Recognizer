@@ -48,9 +48,10 @@ Then we create the App class which is responsible for building the GUI for our a
 
 
 ## Technologies Used
-![](https://forthebadge.com/images/badges/made-with-python.svg)
-![](https://i.redd.it/c6h7rok9c2v31.jpg)
-![](https://twilio-cms-prod.s3.amazonaws.com/original_images/jupyter_python_numpy.png)
-![](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/scikit-learn-logo.png)
+![](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+![](https://miro.medium.com/max/600/0*LZQf7b4u8f97izwV.png)
+![](https://static.javatpoint.com/python/images/tkinter-tutorial.png)
+![](https://static.javatpoint.com/tutorial/numpy/images/numpy-tutorial.png)
+![](https://learncreategame.com/techart/wp-content/uploads/sites/2/2016/06/pil-Maya-Python-Compile.jpg)
 
 
